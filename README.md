@@ -31,3 +31,5 @@ sudo npm install -g express-generator
 5) npm i -s socket.io
 6) npm i -s uuid
 
+## Node app run:
+node app.js
