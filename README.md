@@ -18,11 +18,12 @@ A new node express project.
 [Express Installing & generator](https://expressjs.com/en/starter/generator.html):
 sudo npm install -g express-generator
 
-#Node App Create:
-1)express --view=ejs (app_name)
-2)sudo npm audit fix --force
+# Node App Create:
 
-#Install dependencies:
+1) express --view=ejs (app_name)
+2) sudo npm audit fix --force
+
+## Install dependencies:
 1) npm i -s config
 2) npm i -s cors
 3) npm i -s moment-timezone
