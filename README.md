@@ -8,7 +8,7 @@
 
 
 - [Youtube Video - 1: Node Express Api Base Setup With MySQL Connection POST Method Api ](https://youtu.be/kmcd231SVIo)
-- [Youtube Video - 2: Socket Connection & Socket Emit & Event On Listen Api With Flutter Mobile App ](https://youtu.be/kmcd231SVIo)
+- [Youtube Video - 2: Socket Connection & Socket Emit & Event On Listen Api With Flutter Mobile App ](https://youtu.be/FWKYqs-eaAE)
 
 
 A new node express project.
